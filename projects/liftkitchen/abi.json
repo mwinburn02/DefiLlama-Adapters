@@ -1,0 +1,41 @@
+{
+    "gettotalSupplyControl": {
+        "name":"gettotalSupplyControl",
+        "inputs":[],
+        "outputs":[
+        {
+            "internalType":"uint256",
+            "name":"",
+            "type":"uint256"
+        }
+        ],
+        "stateMutability":"view",
+        "type":"function"
+    },
+    "gettotalSupplyShare": {
+        "name":"gettotalSupplyShare",
+        "inputs":[],
+        "outputs":[
+        {
+            "internalType":"uint256",
+            "name":"",
+            "type":"uint256"
+        }
+        ],
+        "stateMutability":"view",
+        "type":"function"
+    },
+    "totalSupply": {
+        "name":"totalSupply",
+        "inputs":[],
+        "outputs":[
+        {
+            "internalType":"uint256",
+            "name":"",
+            "type":"uint256"
+        }
+        ],
+        "stateMutability":"view",
+        "type":"function"
+    }
+}
